@@ -42,7 +42,7 @@ def chatbot():
             print(f"Chatbot: {random.choice(jokes)}")
 
         elif user_input.lower() == "what is python":
-            print("Chatbot: Python is a high-level language know for its simplicity.")
+            print("Chatbot: Python is a high-level language known for its simplicity.")
 
         elif user_input.lower() == "what can you do":
             print("Chatbot: I can tell jokes, show the time, perform calculations, reverse words, and many more")
